@@ -11,7 +11,7 @@
     "e2e": "playwright test"
   },
   "dependencies": {
-    "@tailwindcss/vite": "^4.1.13",
+    "@tailwindcss/vite": "^4.3.3",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
     "tailwindcss": "^4.1.13"
