@@ -1,0 +1,28 @@
+spring:
+  datasource:
+    url: jdbc:h2:mem:docmind;MODE=PostgreSQL;DB_CLOSE_DELAY=-1
+    username: sa
+    password:
+  jpa:
+    open-in-view: false
+    hibernate:
+      ddl-auto: validate
+  autoconfigure:
+    exclude: org.springframework.ai.vectorstore.pgvector.autoconfigure.PgVectorStoreAutoConfiguration
+  ai:
+    model:
+      chat: none
+      embedding: none
+      audio.speech: none
+      audio.transcription: none
+      image: none
+      moderation: none
+
+docmind:
+  rag:
+    chunk-size: 400
+    top-k: 3
+    similarity-threshold: 0.0
+  security:
+    jwt-secret: segredo-de-teste-com-pelo-menos-32-bytes
+    token-ttl: 1h

@@ -1,0 +1,25 @@
+{"question": "O que significa o erro -12 na VPN?", "expected": "manual-vpn.md"}
+{"question": "Qual endereço uso para conectar no acesso remoto?", "expected": "manual-vpn.md"}
+{"question": "A VPN conecta e cai logo depois, o que faço?", "expected": "manual-vpn.md"}
+{"question": "Estou conectado mas não abre os sistemas internos", "expected": "manual-vpn.md"}
+{"question": "Qual o limite diário de alimentação em viagem?", "expected": "politica-reembolso.md"}
+{"question": "Em quantos dias preciso pedir o reembolso?", "expected": "politica-reembolso.md"}
+{"question": "Quanto recebo por km usando meu carro?", "expected": "politica-reembolso.md"}
+{"question": "Quando o reembolso cai na conta?", "expected": "politica-reembolso.md"}
+{"question": "Recibo simples vale como comprovante?", "expected": "politica-reembolso.md"}
+{"question": "Qual o prazo de primeira resposta de um chamado P1?", "expected": "sla-suporte.md"}
+{"question": "Quando um P2 é escalonado para o N2?", "expected": "sla-suporte.md"}
+{"question": "Qual o horário de atendimento do suporte?", "expected": "sla-suporte.md"}
+{"question": "Quanto tempo leva para resolver uma dúvida simples?", "expected": "sla-suporte.md"}
+{"question": "Com quanta antecedência o gestor deve pedir o equipamento de um novo funcionário?", "expected": "onboarding-ti.md"}
+{"question": "Quais são as regras para a senha do Windows?", "expected": "onboarding-ti.md"}
+{"question": "De quanto em quanto tempo a senha expira?", "expected": "onboarding-ti.md"}
+{"question": "Quem aprova o acesso ao ERP?", "expected": "onboarding-ti.md"}
+{"question": "Qual o prazo para devolver o notebook quando saio da empresa?", "expected": "onboarding-ti.md"}
+{"question": "Cliquei num link de phishing e digitei minha senha", "expected": "seguranca-informacao.md"}
+{"question": "Meus arquivos estão com extensão .locked", "expected": "seguranca-informacao.md"}
+{"question": "Posso usar meu pendrive no computador do trabalho?", "expected": "seguranca-informacao.md"}
+{"question": "Qual gerenciador de senhas a empresa usa?", "expected": "seguranca-informacao.md"}
+{"question": "Como mando arquivos grandes para um cliente?", "expected": "seguranca-informacao.md"}
+{"question": "Como instalo o cliente de VPN?", "expected": "manual-vpn.md"}
+{"question": "Hospedagem em capital tem qual teto?", "expected": "politica-reembolso.md"}

@@ -1,0 +1,9 @@
+.env
+backend/target/
+frontend/node_modules/
+frontend/dist/
+.idea/
+.vscode/
+__pycache__/
+playwright-report/
+test-results/
